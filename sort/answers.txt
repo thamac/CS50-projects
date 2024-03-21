@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: is fasted with sorted numbers, Omega(n).
+
+sort2 uses: merge sort
+
+How do you know?: was about equally fast with the different files, O(n log n) and Omega(n log n).
+
+sort3 uses: selection sort
+
+How do you know?: sorted and reversed took about the same time but more than sort2, O(n^2) and Omega(n^2).
